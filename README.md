@@ -1,2 +1,5 @@
 # packer
-docuteam packer for Linux 6.6 with adapted configuration and one test SIP.
+docuteam packer 6.10 for Linux with adapted configurations.
+
+see also: [https://wiki.docuteam.ch/doku.php?id=docuteam:packer](https://wiki.docuteam.ch/doku.php?id=docuteam:packer)
+
